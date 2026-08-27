@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Devika A 👋
 
-<!--
-**Devika265/Devika265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Developer** passionate about building modern web applications, clean UI/UX, and robust REST APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend:** Python, FastAPI, Django, RESTful APIs
+- **Database & Tools:** MySQL, PostgreSQL, SQLite, Git, GitHub, Vercel, Render, Postman
+
+---
+
+### 🛠️ Featured Projects
+
+- 🛒 **[TrendMart (Full-Stack E-Commerce)](https://trend-mart-fullstack-python.vercel.app/user/home/html/index.html)** — End-to-end e-commerce store with FastAPI backend, dynamic cart, order management, and admin dashboards.
+- 🏥 **MedoAir** — Centralized healthcare management platform with modular permissions and analytics.
+- 👥 **SmartHRMS** — Streamlined human resources management solution.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devika265&show_icons=true&theme=tokyonight" alt="Devika's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devika265&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+📫 **Connect with me:**
+- **LinkedIn:** [Devika A](https://www.linkedin.com)
+- **Live Demo:** [TrendMart Store](https://trend-mart-fullstack-python.vercel.app/user/home/html/index.html)
